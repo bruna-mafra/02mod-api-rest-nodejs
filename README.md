@@ -1,5 +1,3 @@
-# TO DO LIST
-
 # RF
 
 - [x] O usuário deve poder criar uma nova transação

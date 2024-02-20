@@ -11,7 +11,7 @@
 
 - [x] A transação pode ser do tipo crédito (soma ao valor total) ou débito (subtrai)
 - [x] Deve ser possível indentificarmos o usuário entre as requisições
-- [x] O usuário só pode visualizar transações i qual ele criou
+- [x] O usuário só pode visualizar transações as quais ele criou
 
 
 

@@ -1,0 +1,17 @@
+GET http://localhost:3333/transactions/
+
+###
+
+POST http://localhost:3333/transactions
+Content-Type: application/json
+
+{
+    "title": "Cantoria Casamento",
+    "amount": 200,
+    "type": "credit"
+}
+
+###
+GET http://localhost:3333/transactions/7ff869c1-17ca-473e-9fcb-e2bf3ab78797
+
+
